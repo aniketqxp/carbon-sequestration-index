@@ -1,0 +1,16 @@
+# Core UI Framework
+streamlit>=1.32.0
+
+# Scientific Computing & Data Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Computer Vision & Image Processing
+opencv-python-headless>=4.8.0
+matplotlib>=3.7.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# Geospatial & Environmental Modeling
+rasterio>=1.3.0
+detectree>=0.4.4
